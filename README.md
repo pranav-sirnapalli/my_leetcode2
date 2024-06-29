@@ -16,8 +16,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0011-container-with-most-water) |
+| [1894-merge-strings-alternately](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0011-container-with-most-water) |
+## String
+|  |
+| ------- |
+| [1894-merge-strings-alternately](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1894-merge-strings-alternately) |
 <!---LeetCode Topics End-->
