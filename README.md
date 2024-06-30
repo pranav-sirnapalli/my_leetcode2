@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0443-string-compression) |
 | [1894-merge-strings-alternately](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0443-string-compression) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1894-merge-strings-alternately) |
 ## Math
