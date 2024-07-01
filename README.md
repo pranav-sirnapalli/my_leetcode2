@@ -14,10 +14,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0605-can-place-flowers](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0605-can-place-flowers) |
 | [0944-smallest-range-i](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0944-smallest-range-i) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0001-two-sum) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -28,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0443-string-compression) |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1894-merge-strings-alternately](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1894-merge-strings-alternately) |
 ## Greedy
 |  |
@@ -58,4 +61,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0392-is-subsequence) |
+## Sorting
+|  |
+| ------- |
+| [1798-max-number-of-k-sum-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 <!---LeetCode Topics End-->
