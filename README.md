@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0643-maximum-average-subarray-i) |
+| [0724-find-pivot-index](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0724-find-pivot-index) |
 | [0944-smallest-range-i](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0944-smallest-range-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -62,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1833-find-the-highest-altitude) |
 ## Dynamic Programming
