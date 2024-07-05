@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0724-find-pivot-index](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0724-find-pivot-index) |
 | [0944-smallest-range-i](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0944-smallest-range-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1046-max-consecutive-ones-iii) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
@@ -26,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0001-two-sum](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/0049-group-anagrams) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1798-max-number-of-k-sum-pairs) |
 ## Two Pointers
 |  |
