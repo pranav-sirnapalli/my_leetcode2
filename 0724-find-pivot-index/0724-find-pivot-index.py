@@ -5,11 +5,9 @@ class Solution:
 
         for i in range(len(nums)):
             right_sum -= nums[i]
-
-            if(right_sum == left_sum):
+            if(left_sum == right_sum):
                 return i
-            
             left_sum += nums[i]
-
+        
         return -1
         
