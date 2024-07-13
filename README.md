@@ -65,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1777-determine-if-two-strings-are-close](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1777-determine-if-two-strings-are-close) |
 | [1894-merge-strings-alternately](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/1894-merge-strings-alternately) |
+| [2470-removing-stars-from-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
 | ------- |
@@ -111,4 +112,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2428-equal-row-and-column-pairs](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/2428-equal-row-and-column-pairs) |
+| [2470-removing-stars-from-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/2470-removing-stars-from-a-string) |
+## Stack
+|  |
+| ------- |
+| [2470-removing-stars-from-a-string](https://github.com/pranav-sirnapalli/my_leetcode2/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
